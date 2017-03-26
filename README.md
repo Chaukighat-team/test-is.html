@@ -15,8 +15,8 @@
     border: 10px #333 solid;
 }
 #videoElement {
-    width: autp;
-    height: 100%;
+    width: 1000px;
+    height: auto;
     background-color: #666;
 }
 </style>
@@ -29,11 +29,6 @@
     </video>
 </div>
 
-<div id="container">
-    <video autoplay="true" id="videoElement">
-     
-    </video>
-</div>
 <script>
  var video = document.querySelector("#videoElement");
  
