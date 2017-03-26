@@ -44,7 +44,7 @@ function handleVideo(stream) {
 function videoError(e) {
     // do something
 }
-
+var video = document.querySelector("#videoElement");
 </script>
 </body>
 </html>
