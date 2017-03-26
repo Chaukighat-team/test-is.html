@@ -15,8 +15,8 @@
     border: 10px #333 solid;
 }
 #videoElement {
-    width: 100%;
-    height: auto;
+    width: autp;
+    height: 100%;
     background-color: #666;
 }
 </style>
