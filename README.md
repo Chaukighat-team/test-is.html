@@ -10,13 +10,13 @@
 <style>
 #container {
     margin: 0px auto;
-    width: 500px;
-    height: 375px;
+    width: 100%;
+    height: auto;
     border: 10px #333 solid;
 }
 #videoElement {
-    width: 500px;
-    height: 375px;
+    width: 100%;
+    height: auto;
     background-color: #666;
 }
 </style>
