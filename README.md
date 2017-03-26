@@ -10,7 +10,7 @@
 <style>
 #container {
     margin: 0px auto;
-    width: 100%;
+    width: auto;
     height: auto;
     border: 10px #333 solid;
 }
